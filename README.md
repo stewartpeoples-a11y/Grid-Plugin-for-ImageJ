@@ -27,7 +27,7 @@ I am publishing the source code anyway because someone might find the concept or
 Feel free to fork, fix, modernise, or cannibalise any part of it. No warranty of any kind is provided — use at your own risk.
 
 ## Screenshots
-![App Screenshot](screenshots/beforegrid.png "before grid")
+![App Screenshot](beforegrid.png "before grid")
 
-![App Screenshot](screenshots/aftergrid.png "after grid")
+![App Screenshot](aftergrid.png "after grid")
 
